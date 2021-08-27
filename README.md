@@ -1,43 +1,6 @@
 # The Hatman NoteBook Writer 
 A CLI based application for quick creation and writing to files.
 
-<!-- HAT MAN -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">The HatMan</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://mysparrowworks.wordpress.com">Report a Problem</a>
-    ·
-
-</p>
-</p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -53,16 +16,25 @@ A CLI based application for quick creation and writing to files.
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        
-      </ul>
+          <li><a href="#prerequisites">Prerequisites</a></li>
+       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+        <li>
+      <a href="#usage">Usage</a>
+         </li>
+        <li>
+      <a href="#contributing">Contibutions</a>
+         </li>
+           <li>
+      <a href="#license">License</a>
+         </li>
+            <li>
+      <a href="#contact">Contact</a>
+         </li>
+            <li>
+      <a href="#acknowledgements">Acknowledgement</a>
+         </li>
 
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -101,8 +73,8 @@ You should have installed on your machine to be able to use this application.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* npm
-  ```sh
+* python shell
+  ```py
   python hatman.py
   ```
 
@@ -130,14 +102,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Email: owusuwilson980@gmail.com
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+<li>Email: owusuwilson980@gmail.com</li>
+<li>Project Link: [https://github.com/Owusu-Wilson/Hatman]</li>
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
-* [Choose an Open Source License](https://choosealicense.com) <br>
-* [GitHub Pages](https://pages.github.com)
+<ul>
+<li>[Choose an Open Source License](https://MITlicense.com) </li>
+<li>[GitHub Pages](https://pages.github.com)</li>
+</ul>
 
