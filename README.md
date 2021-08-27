@@ -1,4 +1,5 @@
 # The Hatman NoteBook Writer 
+<!-- ![Logo](pngtree-black-hat-image_1325889.jpg) -->
 A CLI based application for quick creation and writing to files.
 
 
@@ -42,8 +43,7 @@ A CLI based application for quick creation and writing to files.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Hatman Screenshot](https://github.com/[Owusu-Wilson]/[Hatman]/blob/[main]/hatman.png?raw=true)
+![Applicataion Screenshot](hatman.png)
 
 HatMan NoteBook Writer is a simple Command Line based application.
 Hatman can come in handy if you want a quick way to create .txt, .csv, files and other text format files.
