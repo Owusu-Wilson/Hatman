@@ -68,7 +68,7 @@ Hatman leverages the power of python's <strong>os</strong> module.
 4. Run the script with python
 
 ### Prerequisites
-You should have installed on your machine to be able to use this application.
+You should have **`python`** installed on your machine to be able to use this application.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -83,7 +83,7 @@ You should have installed on your machine to be able to use this application.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
